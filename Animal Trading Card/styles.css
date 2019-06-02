@@ -1,0 +1,43 @@
+.margin-title{
+    margin: 0.5em;
+}
+
+.picture-width{
+    width: 300px;
+    padding: 0.5em;
+}
+
+.italic{
+    font-style: italic;
+    background-color: lightblue;
+}
+
+.no-dotts{
+    list-style: none;
+    background-color: lightgreen;
+}
+
+.bold-label{
+    font-weight: bold;
+    margin-left: -2.5em;
+}
+
+.outer-border{
+    border: 1px solid gray;
+    width: 350px;
+    height: 645px;
+    border-radius: 1em;
+}
+
+.information-border{
+    border: 1px solid gray;
+    width: 300px;
+    height: 310px;
+    padding: 0.5em;
+    margin: 0.5em;
+    border-radius: 1em;
+}
+
+.background-color{
+    background-color: lightskyblue;
+}
